@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Complete Web Development Bootcamp",
+            "instructor": "John Doe",
+            "duration": "20 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "description": "Learn full-stack web development from scratch.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg",
+            "category": "Development"
+        },
+        {
+            "id": 2,
+            "title": "JavaScript Mastery",
+            "instructor": "Sarah Johnson",
+            "duration": "15 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "description": "Master JavaScript concepts and build real-world apps.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg",
+            "category": "Development"
+        },
+        {
+            "id": 3,
+            "title": "React for Beginners",
+            "instructor": "David Lee",
+            "duration": "12 hours",
+            "rating": 4.6,
+            "level": "Beginner",
+            "description": "Build modern UI using React.js step by step.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg",
+            "category": "Development"
+        },
+        {
+            "id": 4,
+            "title": "UI/UX Design Fundamentals",
+            "instructor": "Emily Carter",
+            "duration": "10 hours",
+            "rating": 4.5,
+            "level": "Beginner",
+            "description": "Learn design principles and create stunning interfaces.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg",
+            "category": "Design"
+        },
+        {
+            "id": 5,
+            "title": "Advanced CSS & Tailwind",
+            "instructor": "Michael Brown",
+            "duration": "8 hours",
+            "rating": 4.6,
+            "level": "Intermediate",
+            "description": "Create responsive and modern designs using Tailwind CSS.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg",
+            "category": "Design"
+        },
+        {
+            "id": 6,
+            "title": "Digital Marketing Masterclass",
+            "instructor": "Sophia Wilson",
+            "duration": "14 hours",
+            "rating": 4.4,
+            "level": "Beginner",
+            "description": "Learn SEO, social media marketing, and branding.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googleads.svg",
+            "category": "Marketing"
+        },
+        {
+            "id": 7,
+            "title": "Node.js Backend Development",
+            "instructor": "Chris Evans",
+            "duration": "18 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "description": "Build scalable backend APIs using Node.js.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg",
+            "category": "Development"
+        },
+        {
+            "id": 8,
+            "title": "Freelancing & Career Guide",
+            "instructor": "Anna Smith",
+            "duration": "6 hours",
+            "rating": 4.3,
+            "level": "Beginner",
+            "description": "Learn how to start freelancing and build your career.",
+            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/upwork.svg",
+            "category": "Business"
+        }
+    ]
+}
