@@ -19,7 +19,7 @@
             "rating": 4.7,
             "level": "Intermediate",
             "description": "Master JavaScript concepts and build real-world apps.",
-            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg",
+            "image": "https://i.ibb.co.com/PHQ18xK/unnamed.png",
             "category": "Development"
         },
         {
@@ -41,7 +41,7 @@
             "rating": 4.5,
             "level": "Beginner",
             "description": "Learn design principles and create stunning interfaces.",
-            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg",
+            "image": "https://i.ibb.co.com/dw2MZrmR/UI-and-UX-design-Tools-2025-d338c8262d.webp",
             "category": "Design"
         },
         {
@@ -52,7 +52,7 @@
             "rating": 4.6,
             "level": "Intermediate",
             "description": "Create responsive and modern designs using Tailwind CSS.",
-            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg",
+            "image": "https://i.ibb.co.com/HLHfF7VN/hqdefault.jpg",
             "category": "Design"
         },
         {
@@ -63,7 +63,7 @@
             "rating": 4.4,
             "level": "Beginner",
             "description": "Learn SEO, social media marketing, and branding.",
-            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googleads.svg",
+            "image": "https://i.ibb.co.com/1fmfdtHB/how-to-become-a-digital-marketer.webp",
             "category": "Marketing"
         },
         {
@@ -74,7 +74,7 @@
             "rating": 4.7,
             "level": "Intermediate",
             "description": "Build scalable backend APIs using Node.js.",
-            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg",
+            "image": "https://i.ibb.co.com/whS6FHCP/images.jpg",
             "category": "Development"
         },
         {
@@ -85,7 +85,7 @@
             "rating": 4.3,
             "level": "Beginner",
             "description": "Learn how to start freelancing and build your career.",
-            "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/upwork.svg",
+            "image": "https://i.ibb.co.com/tM9wQjF0/cover-full-92314ed27c3de0e3a8274a9b344b7573.webp",
             "category": "Business"
         }
     ]
